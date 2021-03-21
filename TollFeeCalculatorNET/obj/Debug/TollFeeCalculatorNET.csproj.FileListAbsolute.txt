@@ -1,0 +1,10 @@
+C:\Users\ghula\source\repos\TollFeeCalculatorNET\TollFeeCalculatorNET\obj\Debug\TollFeeCalculatorNET.csprojAssemblyReference.cache
+C:\Users\ghula\source\repos\TollFeeCalculatorNET\TollFeeCalculatorNET\obj\Debug\TollFeeCalculatorNET.csproj.CoreCompileInputs.cache
+C:\Users\ghula\source\repos\TollFeeCalculatorNET\TollFeeCalculatorNET\bin\Debug\TollFeeCalculatorNET.exe.config
+C:\Users\ghula\source\repos\TollFeeCalculatorNET\TollFeeCalculatorNET\bin\Debug\TollFeeCalculatorNET.exe
+C:\Users\ghula\source\repos\TollFeeCalculatorNET\TollFeeCalculatorNET\bin\Debug\TollFeeCalculatorNET.pdb
+C:\Users\ghula\source\repos\TollFeeCalculatorNET\TollFeeCalculatorNET\bin\Debug\log4net.dll
+C:\Users\ghula\source\repos\TollFeeCalculatorNET\TollFeeCalculatorNET\bin\Debug\log4net.xml
+C:\Users\ghula\source\repos\TollFeeCalculatorNET\TollFeeCalculatorNET\obj\Debug\TollFeeCalculatorNET.csproj.CopyComplete
+C:\Users\ghula\source\repos\TollFeeCalculatorNET\TollFeeCalculatorNET\obj\Debug\TollFeeCalculatorNET.exe
+C:\Users\ghula\source\repos\TollFeeCalculatorNET\TollFeeCalculatorNET\obj\Debug\TollFeeCalculatorNET.pdb
